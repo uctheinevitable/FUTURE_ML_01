@@ -104,5 +104,5 @@ FUTURE_ML_01/
 
 **Developed by:**  
 - Ujjwal Chaurasia
-- [LinkedIn](www.linkedin.com/in/ujjwal-chaurasia)
+- [LinkedIn](https://www.linkedin.com/in/ujjwal-chaurasia)
 - [GitHub](https://github.com/uctheinevitable)
