@@ -103,6 +103,7 @@ FUTURE_ML_01/
 ## 👤 Author
 
 **Developed by:**  
-- Ujjwal Chaurasia
-- [LinkedIn](https://www.linkedin.com/in/ujjwal-chaurasia)
-- [GitHub](https://github.com/uctheinevitable)
+Ujjwal Chaurasia
+Aspiring Machine Learning Engineer
+ - 🔗[LinkedIn](https://www.linkedin.com/in/ujjwal-chaurasia)
+ - 💻 [GitHub](https://github.com/uctheinevitable)
